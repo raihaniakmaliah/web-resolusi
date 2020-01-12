@@ -2,4 +2,4 @@ WEB RESOLUSI
 - Belajar web
 - Membuat aplikasi sederhana
 - Bahan untuk skripsi
-- Harus bisa
+- membuat web
